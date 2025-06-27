@@ -5,3 +5,5 @@ https://cdn.jsdelivr.net/gh/erpang5021/iptv-playlist/2027.m3u8
 https://cdn.jsdelivr.net/gh/erpang5021/iptv-playlist/DSTV.m3u8
 
 https://cdn.jsdelivr.net/gh/erpang5021/iptv-playlist/output_playlist.m3u8
+
+https://cdn.jsdelivr.net/gh/erpang5021/iptv-playlist/nba_2025_playlist.m3u8
